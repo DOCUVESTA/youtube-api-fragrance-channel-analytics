@@ -72,7 +72,7 @@ What better way to discover new products than through a recommendation? It's pre
 
 ## Future Work
 - Comments analysis
-- Classify using more specific categories
+- Classify videos using more specific categories
 - Include the variable of time: Are the best performing videos the ones that have been up the longest?
 
 
