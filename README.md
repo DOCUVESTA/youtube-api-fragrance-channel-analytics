@@ -20,7 +20,7 @@ What better way to discover new products than through a recommendation? It's pre
     </tr>
     <tr>
         <td>recommendation</td>
-        <td>in-depth description about a perfume</td>
+        <td>in-depth description of perfume(s)</td>
     </tr>
     <tr>
         <td>review</td>
