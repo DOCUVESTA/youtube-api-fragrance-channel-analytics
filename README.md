@@ -7,7 +7,7 @@
 </h3>
 
 ## Overview
-
+What better way to discover new products than through a recommendation? It's pre-vetted and, if we're lucky, it includes a detailed breakdown of the product's pros and cons. Nowadays, if we're considering buying a new sunscreen, lotion, or perfume, it's likely because we've seen it highlighted by an influencer on social media. For this project, I analyze Monika Cioch's YouTube channel, which is largely dedicated on reviewing, discovering, and recommending perfumes. This analysis aims to understand her viewers' preferences by examining engagement metrics such as views, likes, and comment counts to determine which of her videos performs the best.
 
 
 <br>
@@ -23,6 +23,17 @@
 <img src="https://github.com/DOCUVESTA/youtube-api-fragrance-channel-analytics/blob/44ee6ea1b625fbf28f42c16bdacd1afc60c03e03/assets/all_violin_plots.png"/>
 
 <img src="https://github.com/DOCUVESTA/youtube-api-fragrance-channel-analytics/blob/8eb523ddaa84cd1d97a6741374f507814e5b8a92/assets/top_performing_videos.png"/>
+
+
+## Key Insights
+
+
+
+
+<br>
+
+## Future Work
+
 
 
 
