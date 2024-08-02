@@ -44,7 +44,7 @@ What better way to discover new products than through a recommendation? It's pre
     </tr>
 </table>
 
-
+<br>
 
 ## Analytics
 <h3 align="center">
@@ -62,15 +62,18 @@ What better way to discover new products than through a recommendation? It's pre
 
 
 ## Key Insights
-
+- Monika's audience prefers review videos. Although they make up just 11.7% of her content, review videos receive the highest number of views and comments, with likes trailing only slightly behind the short videos category by less than 1,000 likes
+- Based on all three engagement metrics, longform content tend to generally outperforms shortform content
+- The top 4 videos that consistently rank in the top 10 are about the types of perfumes that men would find appealing on women 👀 
 
 
 
 <br>
 
 ## Future Work
-
-
+- Comments analysis
+- Create more specific categories
+- Include the variable of time: Are the best performing videos the videos that have been up the longest?
 
 
 <br>
