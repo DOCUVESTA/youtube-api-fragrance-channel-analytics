@@ -11,9 +11,44 @@ What better way to discover new products than through a recommendation? It's pre
 
 <br>
 
+## Data Context
+#### For the analysis, each video was categorized into a specific group
+<table style="width:100%">
+    <tr>
+        <th>Category Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>recommendation</td>
+        <td>in-depth description about a perfume</td>
+    </tr>
+    <tr>
+        <td>review</td>
+        <td>first impression of a perfume or perfume comparison</td>
+    </tr>
+    <tr>
+        <td>informative</td>
+        <td>in-depth breakdown of a specific perfume or videos on how to choose a perfume</td>
+    </tr>
+    <tr>
+        <td>fun</td>
+        <td>non-perfume related videos for entertainment</td>
+    </tr>
+    <tr>
+        <td>fashion</td>
+        <td>non-perfume related videos about fashion</td>
+    </tr>
+    <tr>
+        <td>shorts</td>
+        <td>Youtube shorts</td>
+    </tr>
+</table>
+
+
+
 ## Analytics
 <h3 align="center">
-	<img src="https://github.com/DOCUVESTA/youtube-api-fragrance-channel-analytics/blob/5acb0033cba3f5950efef8d3ccfc4b1d035aa842/assets/information_bar.png"/>
+	<img src="https://github.com/DOCUVESTA/youtube-api-fragrance-channel-analytics/blob/5b77903a1e795d91e10ed033bb06069d3ce57ec6/assets/information_bar.png"/>
 </h3>
 
 
@@ -22,6 +57,8 @@ What better way to discover new products than through a recommendation? It's pre
 <img src="https://github.com/DOCUVESTA/youtube-api-fragrance-channel-analytics/blob/44ee6ea1b625fbf28f42c16bdacd1afc60c03e03/assets/all_violin_plots.png"/>
 
 <img src="https://github.com/DOCUVESTA/youtube-api-fragrance-channel-analytics/blob/8eb523ddaa84cd1d97a6741374f507814e5b8a92/assets/top_performing_videos.png"/>
+
+<br>
 
 
 ## Key Insights
