@@ -8,6 +8,17 @@
 
 ## Overview
 
+
+
+<br>
+
+## Analytics
+<img src="https://github.com/DOCUVESTA/youtube-api-fragrance-channel-analytics/blob/4113bab316342257a33a5a584c9b2413dd49a094/assets/youtube_channel_info.png" width="320" height="125"/>
+
+
+
+
+
 <br>
 
 ## Repository Contents
