@@ -13,7 +13,14 @@
 <br>
 
 ## Analytics
-<img src="https://github.com/DOCUVESTA/youtube-api-fragrance-channel-analytics/blob/4113bab316342257a33a5a584c9b2413dd49a094/assets/youtube_channel_info.png" width="320" height="125"/>
+<h3 align="center">
+	<img src="https://github.com/DOCUVESTA/youtube-api-fragrance-channel-analytics/blob/4113bab316342257a33a5a584c9b2413dd49a094/assets/youtube_channel_info.png" width="490" height="200""/>
+</h3>
+
+
+	
+<img src="https://github.com/DOCUVESTA/youtube-api-fragrance-channel-analytics/blob/44ee6ea1b625fbf28f42c16bdacd1afc60c03e03/assets/categories_and_metrics.png"/>
+<img src="https://github.com/DOCUVESTA/youtube-api-fragrance-channel-analytics/blob/44ee6ea1b625fbf28f42c16bdacd1afc60c03e03/assets/all_violin_plots.png"/>
 
 
 
