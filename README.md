@@ -62,7 +62,7 @@ What better way to discover new products than through a recommendation? It's pre
 
 
 ## Key Insights
-- Monika's audience prefers review videos. Although they make up just 11.7% of her content, review videos receive the highest number of views and comments, with likes trailing only slightly behind Youtube shorts by less than 1,000 likes
+- Monika's audience prefers review videos. Although they make up just 11.7% of her content, review videos receive the highest number of views and comments, with likes trailing only slightly behind Youtube shorts. To note, it is also the category with the most outliers based on the violin plot.
 - Based on all three engagement metrics, longform content tend to generally outperform shortform content
 - The top 4 videos that consistently rank in the top 10 are about the types of perfumes that men would find appealing on women 👀 
 
